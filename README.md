@@ -2,9 +2,9 @@
 
 # IMPLEMENTATION OF SYMBOL TABLE
 
-# Register Number :
+# Register Number : 212224040049
 
-# Date :
+# Date :8.8.2025
 
 # AIM:
 
